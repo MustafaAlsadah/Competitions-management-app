@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SWE_Project">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWE_Project</output-path>
+    <root id="root">
+      <element id="archive" name="SWE_Project.jar">
+        <element id="module-output" name="SWE_Project" />
+      </element>
+    </root>
+  </artifact>
+</component>
