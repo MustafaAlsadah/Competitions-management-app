@@ -12,3 +12,6 @@
 
 ## Sending emails to winners
 ![Selection customization](./imgs-demo/send-congrats-email.png)
+
+## Assign winners to finished competitions notification
+![Selection customization](./imgs-demo/assign-winners-notification.png)
